@@ -1,5 +1,5 @@
 ![Medicine Store Billing System](banner.png)
-# pharmacy-medical-shop
+# pharmacy-medical-calculation-system
 💊 A beginner-friendly Python medicine billing system with GST, senior citizen discount, and exception handling.
 ## ✨ Features
 
